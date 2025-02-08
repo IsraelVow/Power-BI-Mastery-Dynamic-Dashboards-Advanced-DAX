@@ -8,6 +8,8 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 ## **📊 Dashboard Preview**  
 [Click to view dashboard](Dashboard.gif)  
 
+Dashboard.gif
+
 ---
 
 ### 🏢 **Industry Use Case**  
@@ -90,7 +92,6 @@ VAR _Result =
 
 RETURN _Result
 ```
-
 ---
 
 ## **🚀 How to Use This Project**  
