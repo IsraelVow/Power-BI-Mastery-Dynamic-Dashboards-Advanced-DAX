@@ -9,7 +9,7 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 [Click to view dashboard](Dashboard.gif)  
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://imgur.com/a/qATORZ2.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://imgur.com/a/qATORZ2" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
 ---
