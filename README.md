@@ -123,7 +123,7 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 ---
 
 ## **📢 Connect With Me**  
-🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/israeljosiah/)  
+🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/israeljosiah/)  
 🔗 **Portfolio:** [Portfolio Link](https://www.datascienceportfol.io/IsraelJosiah)  
 📧 **Email:** Israeljvow@gmail.com  
 
