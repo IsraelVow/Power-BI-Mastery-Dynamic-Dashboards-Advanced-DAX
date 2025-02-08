@@ -120,8 +120,8 @@ git clone https://github.com/yourusername/Sales-Performance-Analysis.git
 ---
 
 ## **📢 Connect With Me**  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/israeljosiah/)  
-🔗 **Portfolio:** [Your Website or Portfolio Link](https://www.datascienceportfol.io/IsraelJosiah)  
+🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/israeljosiah/)  
+🔗 **Portfolio:** [Portfolio Link](https://www.datascienceportfol.io/IsraelJosiah)  
 📧 **Email:** Israeljvow@gmail.com  
 
 🙌 If you find this project useful, don't forget to ⭐ **star** the repository! 🚀  
