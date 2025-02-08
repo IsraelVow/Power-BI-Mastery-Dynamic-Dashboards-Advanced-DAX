@@ -6,10 +6,10 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 ---
 
 ## **📊 Dashboard Preview**  
-[Click to view dashboard](Dashboard.gif)  
+[Click to view dashboard via Power BI APP Link](https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://imgur.com/NKbJoCX.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://app.powerbi.com/view?r=eyJrIjoiNTQ0YTllMGItMjUxNi00ZDdiLThmZmUtMGQxNWI4ODdkMGExIiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
 ---
