@@ -8,7 +8,9 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 ## **📊 Dashboard Preview**  
 [Click to view dashboard](Dashboard.gif)  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="NKbJoCX"><a href="https://imgur.com/NKbJoCX">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://imgur.com/NKbJoCX.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+</div>
 
 ---
 
